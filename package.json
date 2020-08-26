@@ -1,0 +1,11 @@
+{
+  "name": "ticket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "esprima": "^4.0.1",
+    "node-fetch": "^2.6.0"
+  }
+}
