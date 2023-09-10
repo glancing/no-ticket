@@ -1,2 +1,2 @@
 # no-ticket
-Solve new ticket JS on supreme
+Solve new ticket JS anti bot on supreme
